@@ -17,7 +17,7 @@ FEATURES:
 9.If snake hits its tail game is over
 
 BUILD INSTRUCTIONS:
-Requirent- C++ compiler
+
 
 In this code 4 functions implemented:
 1.Setup - Setup of the game.
